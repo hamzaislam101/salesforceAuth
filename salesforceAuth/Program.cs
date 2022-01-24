@@ -28,7 +28,7 @@ namespace salesforceAuth
             ClientId = "3MVG9DREgiBqN9WkqrBdBgWVO8_LrL_383svSdrhYlDzfyStamsye0dKgBopyTdQ6oxDxxwW_TS3RL8ZxBb.Q";
             ClientSecret = "58966451532E97BC24BE948FFEC9E7C1B11CD0C6655A81EE4CA7D9C97410D4FA";
             Username = "hamzaislam101@gmail.com";
-            Password = "0493ravian";
+            Password = "1234abcd";
 
             Console.WriteLine("Fetching Token...");
             FetchToken();
